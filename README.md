@@ -634,6 +634,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Security and PKI
 
+  * [Aikido Security](https://www.aikido.dev) — Aikido Security is an all-in-one developer-friendly application security platform. It scans your code, containers & cloud in 10 different ways, showing you which security issues and vulnerabilities are actually important to solve. It speeds up triaging massively by cutting out false-positives, and making things human-readable.
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
   * [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate various development tasks. Now in beta.
   * [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
